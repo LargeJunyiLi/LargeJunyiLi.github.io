@@ -8,7 +8,7 @@
       <p><b>地址：北京市海淀区中关村南大街北京理工大学，软件楼108</b></p>
     </td>
     <td width="25%">
-      <img src="/身份证人像面.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>

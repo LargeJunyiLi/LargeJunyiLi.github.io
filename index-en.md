@@ -23,7 +23,7 @@ Intelligent Systems and Safety Laboratory,<br>
 Beijing Institute of Technology, School of Computer science <br>
 5 Zhongguancun South Street, Haidian District, Beijing <br>
 Office: Software Building 108 <br> 
-E-mail: <a href="mailto:meihui_zhang@bit.edu.cn">1418415116@qq.com</a></p>
+E-mail: 1418415116@qq.com</p>
 <p>[<a href="https://dblp.org/pid/08/7259.html">DBLP</a>]	[<a href="https://scholar.google.com/citations?user=DuLgpaQAAAAJ&hl=en">Google Scholoar</a>]	[<a href="./index.md">中文主页</a>]</p>
 </td></tr></tbody></table>
 <div id="bio">

@@ -23,8 +23,8 @@ School of Computer Science and Technology,<br>
 Beijing Institute of Technology <br>
 5 South Zhongguancun Street, <br>
 Beijing, China <br> 
-E-mail: <a href="mailto:meihui_zhang@bit.edu.cn">firstname_lastname@bit.edu.cn</a></p>
-<p>[<a href="https://dblp.org/pid/08/7259.html">DBLP</a>]	[<a href="https://scholar.google.com/citations?user=DuLgpaQAAAAJ&hl=en">Google Scholoar</a>]	[<a href="/index.html">中文主页</a>]</p>
+E-mail: <a href="mailto:meihui_zhang@bit.edu.cn">1418415116@qq.com</a></p>
+<p>[<a href="https://dblp.org/pid/08/7259.html">DBLP</a>]	[<a href="https://scholar.google.com/citations?user=DuLgpaQAAAAJ&hl=en">Google Scholoar</a>]	[<a href="./index.md">中文主页</a>]</p>
 </td></tr></tbody></table>
 <div id="bio">
 <h2>About me</h2>
@@ -118,14 +118,7 @@ E-mail: <a href="mailto:meihui_zhang@bit.edu.cn">firstname_lastname@bit.edu.cn</
 
 <h3>Selected PC memberships</h3>
 <ul>
-<li><p>SIGMOD: 2022, 2018, 2014</p>
-</li>
-<li><p>VLDB: 2022, 2021, 2020 (Industrial Track), 2014</p>
-</li>
-<li><p>KDD: 2021, 2020, 2019</p>
-</li>
-<li><p>ACM MM: 2015</p>
-</li>
+Null
 </ul>
 
 </div>
@@ -133,75 +126,6 @@ E-mail: <a href="mailto:meihui_zhang@bit.edu.cn">firstname_lastname@bit.edu.cn</
 
 <div id="papers">
 <h2>Selected Papers</h2>
-<p><b>Full publication list and citation</b>:  [<a href="https://dblp.org/pid/08/7259.html">DBLP</a>]	[<a href="https://scholar.google.com/citations?user=DuLgpaQAAAAJ&hl=en">Google Scholoar</a>]</p>
-
 <ol>
-<li><p>Zhaojing Luo, Sai Ho Yeung, Meihui Zhang, Kaiping Zheng, Lei Zhu, Gang Chen, Feiyi Fan, Qian Lin, Kee Yuan Ngiam, Beng Chin Ooi: MLCask: Efficient Management of Component Evolution in Collaborative Data Analytics Pipelines. ICDE 2021: 1655-1666</p>
-</li>
-<li><p>Shaofeng Cai, Kaiping Zheng, Gang Chen, H. V. Jagadish, Beng Chin Ooi, Meihui Zhang: ARM-Net: Adaptive Relation Modeling Network for Structured Data. SIGMOD Conference 2021: 207-220</p>
-</li>
-<li><p>Pingcheng Ruan, Tien Tuan Anh Dinh, Dumitrel Loghin, Meihui Zhang, Gang Chen, Qian Lin, Beng Chin Ooi: Blockchains vs. Distributed Databases: Dichotomy and Fusion. SIGMOD Conference 2021: 1504-1517</p>
-</li>
-<li><p>Meihui Zhang, Zhongle Xie, Cong Yue, Ziyue Zhong: Spitz: A Verifiable Database System. Proc. VLDB Endow. 13(12): 3449-3460 (2020)</p>
-</li>
-<li><p>Zhongle Xie, Hongbin Ying, Cong Yue, Meihui Zhang, Gang Chen, Beng Chin Ooi: Cool, a COhort OnLine analytical processing system. ICDE 2020: 577-588</p>
-</li>
-<li><p>Pingcheng Ruan, Tien Tuan Anh Dinh, Qian Lin, Meihui Zhang, Gang Chen, Beng Chin Ooi: Revealing Every Story of Data in Blockchain Systems. SIGMOD Record 2020 (special issue for 2019 ACM SIGMOD Research Highlights)</p>
-</li>
-<li><p>Pingcheng Ruan, Dumitrel Loghin, Quang-Trung Ta, Meihui Zhang, Gang Chen, Beng Chin Ooi: A Transactional Perspective on Execute-order-validate Blockchains. SIGMOD 2020: 543-557</p>
-</li>
-<li><p>Cong Yue, Zhongle Xie, Meihui Zhang, Gang Chen, Beng Chin Ooi, Sheng Wang, Xiaokui Xiao: Analysis of Indexing Structures for Immutable Data. SIGMOD Conference 2020: 925-935</p>
-</li>
-<li><p>Dumitrel Loghin, Shaofeng Cai, Gang Chen, Tien Tuan Anh Dinh, Feiyi Fan, Qian Lin, Janice Ng, Beng Chin Ooi, Xutao Sun, Quang-Trung Ta, Wei Wang, Xiaokui Xiao, Yang Yang, Meihui Zhang, Zhonghua Zhang: The Disruptions of 5G on Data-Driven Technologies and Applications. IEEE Trans. Knowl. Data Eng. 32(6): 1179-1198 (2020)</p>
-</li>
-<li><p>Pingcheng Ruan, Gang Chen, Anh Dinh, Qian Lin, Beng Chin Ooi, Meihui Zhang: Fine-Grained, Secure and Efficient Data Provenance for Blockchain. PVLDB 12(9): 975-988 (2019)</p>
-</li>
-<li><p>Wei Lu, Yanyan Shen, Tongtong Wang, Meihui Zhang, H. V. Jagadish, Xiaoyong Du: Fast Failure Recovery in Vertex-Centric Distributed Graph Processing Systems. IEEE Trans. Knowl. Data Eng. 31(4): 733-746 (2019)</p>
-</li>
-<li><p>Qingchao Cai, Zhongle Xie, Gang Chen, H. V. Jagadish, Beng Chin Ooi, Meihui Zhang: Effective Temporal Dependence Discovery in Time Series Data. PVLDB 11(8): 893-905 (2018)</p>
-</li>
-<li><p>Sheng Wang, Tien Tuan Anh Dinh, Qian Lin, Zhongle Xie, Meihui Zhang, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Ruan: ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications. PVLDB 11(10): 1137-1150 (2018)</p>
-</li>
-<li><p>Wei Chit Tan, Meihui Zhang, Hazem Elmeleegy, Divesh Srivastava: REGAL+: Reverse Engineering SPJA Queries. PVLDB 11(12): 1982-1985 (2018)</p>
-</li>
-<li><p>Wei Wang, Jinyang Gao, Meihui Zhang, Sheng Wang, Gang Chen, Teck Khim Ng, Beng Chin Ooi, Jie Shao, Moaz Reyad: Rafiki: Machine Learning as an Analytics Service System. PVLDB 12(2): 128-140 (2018)</p>
-</li>
-<li><p>Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang: Untangling Blockchain: A Data Processing View of Blockchain Systems. IEEE Trans. Knowl. Data Eng. 30(7): 1366-1385 (2018)</p>
-</li>
-<li><p>Chang Yao, Meihui Zhang, Qian Lin, Beng Chin Ooi, Jiatao Xu: Scaling distributed transaction processing and recovery based on dependency logging. VLDB J. 27(3): 347-368 (2018)</p>
-</li>
-<li><p>Zhaojing Luo, Shaofeng Cai, Jinyang Gao, Meihui Zhang, Kee Yuan Ngiam, Gang Chen, Wang-Chien Lee: Adaptive Lightweight Regularization Tool for Complex Analytics. ICDE 2018: 485-496</p>
-</li>
-<li><p>Jian Dai, Meihui Zhang, Gang Chen, Ju Fan, Kee Yuan Ngiam, Beng Chin Ooi: Fine-grained Concept Linking using Neural Networks in Healthcare. SIGMOD  2018: 51-66</p>
-</li>
-<li><p>Wei Chit Tan, Meihui Zhang, Hazem Elmeleegy, Divesh Srivastava: Reverse Engineering Aggregation Queries. PVLDB 10(11): 1394-1405 (2017)
-</p>
-</li>
-<li><p>Wei Wang, Meihui Zhang, Gang Chen, H. V. Jagadish, Beng Chin Ooi, Kian-Lee Tan: Database Meets Deep Learning: Challenges and Opportunities. SIGMOD Record 45(2): 17-22 (2016)</p>
-</li>
-<li><p>Ju Fan, Meihui Zhang, Stanley Kok, Meiyu Lu, Beng Chin Ooi: CrowdOp: Query optimization for declarative crowdsourcing systems. ICDE 2016: 1546-1547</p>
-</li>
-<li><p>Hao Zhang, Gang Chen, Beng Chin Ooi, Kian-Lee Tan, Meihui Zhang: In-Memory Big Data Management and Processing: A Survey. IEEE Trans. Knowl. Data Eng. 27(7): 1920-1948 (2015)</p>
-</li>
-<li><p>Ju Fan, Meihui Zhang, Stanley Kok, Meiyu Lu, Beng Chin Ooi: CrowdOp: Query Optimization for Declarative Crowdsourcing Systems. IEEE Trans. Knowl. Data Eng. 27(8): 2078-2092 (2015)</p>
-</li>
-<li><p>Zheng Jye Ling, Quoc Trung Tran, Ju Fan, Gerald C. H. Koh, Thi Nguyen, Chuen Seng Tan, James Wei Luen Yip, Meihui Zhang: GEMINI: An Integrative Healthcare Analytics System. PVLDB 7(13): 1766-1771 (2014)</p>
-</li>
-<li><p>Ju Fan, Meiyu Lu, Beng Chin Ooi, Wang-Chiew Tan, Meihui Zhang: A hybrid machine-crowdsourcing system for matching web tables. ICDE 2014: 976-987</p>
-</li>
-<li><p>Meihui Zhang, Kaushik Chakrabarti: InfoGather+: semantic matching and annotation of numeric and time-varying attributes in web tables. SIGMOD 2013: 145-156
-</p>
-</li>
-<li><p>Meihui Zhang, Hazem Elmeleegy, Cecilia M. Procopiuc, Divesh Srivastava: Reverse engineering complex join queries. SIGMOD 2013: 809-820
-</p>
-</li>
-<li><p>Meihui Zhang, Marios Hadjieleftheriou, Beng Chin Ooi, Cecilia M. Procopiuc, Divesh Srivastava: Automatic discovery of attributes in relational databases. SIGMOD 2011: 109-120
-</p>
-</li>
-<li><p>Meihui Zhang, Marios Hadjieleftheriou, Beng Chin Ooi, Cecilia M. Procopiuc, Divesh Srivastava: On Multi-Column Foreign Key Discovery. PVLDB 3(1): 805-814 (2010)
-</p>
-</li>
-<li><p>Meihui Zhang, Su Chen, Christian S. Jensen, Beng Chin Ooi, Zhenjie Zhang: Effectively Indexing Uncertain Moving Objects for Predictive Queries. PVLDB 2(1): 1198-1209 (2009)
-</p>
-</li>
+Null
 </ol>

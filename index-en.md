@@ -24,7 +24,7 @@ Beijing Institute of Technology <br>
 5 South Zhongguancun Street, <br>
 Beijing, China <br> 
 E-mail: <a href="mailto:meihui_zhang@bit.edu.cn">firstname_lastname@bit.edu.cn</a></p>
-<p>[<a href="https://dblp.org/pid/08/7259.html">DBLP</a>]	[<a href="https://scholar.google.com/citations?user=DuLgpaQAAAAJ&hl=en">Google Scholoar</a>]	[<a href="index.html">中文主页</a>]</p>
+<p>[<a href="https://dblp.org/pid/08/7259.html">DBLP</a>]	[<a href="https://scholar.google.com/citations?user=DuLgpaQAAAAJ&hl=en">Google Scholoar</a>]	[<a href="/index.html">中文主页</a>]</p>
 </td></tr></tbody></table>
 <div id="bio">
 <h2>About me</h2>

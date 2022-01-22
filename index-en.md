@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="./files/jemdoc.css" type="text/css">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/">
+<link rel="stylesheet" href="./jemdoc.css" type="text/css">
 <title>Junyi Li (李俊毅)</title>
 </head>
 <body>

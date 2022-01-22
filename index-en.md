@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="./jemdoc.css" type="text/css">
 <title>Junyi Li (李俊毅)</title>
 </head>
-<body>
 <table summary="Table for page layout." id="tlayout">
 <tbody><tr valign="top">
 <td id="layout-menu">

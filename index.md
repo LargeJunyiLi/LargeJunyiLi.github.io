@@ -27,7 +27,7 @@
 北京市海淀区中关村南大街5号<br>
 Office: 软件楼 108<br> 
 E-mail: <a href="mailto:meihui_zhang@bit.edu.cn">1418415116@qq.com</a></p>
-<p>[<a href="https://dblp.org/pid/08/7259.html">DBLP</a>]	[<a href="https://scholar.google.com/citations?user=DuLgpaQAAAAJ&hl=en">Google Scholoar</a>]	[<a href="./index-en.html">English Version</a>]</p>
+<p>[<a href="https://dblp.org/pid/08/7259.html">DBLP</a>]	[<a href="https://scholar.google.com/citations?user=DuLgpaQAAAAJ&hl=en">Google Scholoar</a>]	[<a href="./index-en.md">English Version</a>]</p>
 </td></tr></tbody></table>
 <div id="bio">
 <h2>个人信息</h2>

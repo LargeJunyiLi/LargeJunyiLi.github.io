@@ -1,7 +1,4 @@
-<head>
-<title>李俊毅</title>
-</head>
-<body>
+
 <table summary="Table for page layout." id="tlayout">
 <tbody><tr valign="top">
 <td id="layout-menu">
@@ -96,12 +93,4 @@ E-mail: <a href="mailto:meihui_zhang@bit.edu.cn">1418415116@qq.com</a></p>
 <ol>
 暂无
 </ol>
-  
-<div class="bottom-category">
-</div>
-</td>
-</tr>
-</tbody></table>
 
-
-</body>
